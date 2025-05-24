@@ -1,4 +1,36 @@
 {
-  "version": "1.0.0",
-  "upurl": "https://youtube.com/@RIZKID"
+  "tabel1": [
+    {
+      "id": 1,
+      "username": "Nama Admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "Nama Admin2",
+      "password": "admin123"
+    },
+    {
+      "id": 3,
+      "username": "Nama Admin3",
+      "password": "admin123"
+    }
+  ],
+  "tabel2": [
+    {
+      "id": 1,
+      "produk": "bakso",
+      "harga": 100000
+    },
+    {
+      "id": 2,
+      "produk": "mie",
+      "harga": 143000
+    },
+    {
+      "id": 3,
+      "produk": "balwan",
+      "harga": 54000
+    }
+  ]
 }
