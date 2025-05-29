@@ -2,43 +2,55 @@
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/JhwGREv.jpeg",
-    "desc": "yy",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
-    "uploader": "Gilang"
+    "uploader": "Gilang",
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   },
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/jLr6MBF.jpeg",
-    "desc": "yy",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
-    "uploader": "Gilang"
+    "uploader": "Gilang",
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   },
   {
     "title": "Gilang",
     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaDuuZx4ISWE1MYrx2Gvm2WRdBokMbhR06sV5EdGpoQHfnqlC-3Nmkv3E&s=10",
-    "desc": "yy",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
     "uploader": "Gilang"
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   },
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/tmqqQYK.jpeg",
-    "desc": "yy",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
-    "uploader": "Gilang"
+    "uploader": "Gilang",
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   },
   {
     "title": "Gilang",
     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWopXADFgalXCxGnUjxKbBIa9wQyMI4HDYAaPyPjZlDhAFj6S4PQQ0LM&s=10",
     "desc": "yy",
     "created": "2025/5/21",
-    "uploader": "Gilang"
+    "uploader": "Gilang",
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   },
   {
     "title": "Gilang",
     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqYHSR-WoEeHVIBdaFtXKzwGl8F8kUe8gsMmxoLwXEX2McKma1PePneo&s=10",
     "desc": "yy",
     "created": "2025/5/21",
-    "uploader": "Gilang yahahaha"
+    "uploader": "Gilang yahahaha",
+    "tech" : ["express","tailwind css"],
+    "demo" :""
   }
 ]
