@@ -5,8 +5,8 @@
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
     "uploader": "Gilang",
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   },
   {
     "title": "Gilang",
@@ -14,17 +14,17 @@
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
     "uploader": "Gilang",
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   },
   {
     "title": "Gilang",
     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaDuuZx4ISWE1MYrx2Gvm2WRdBokMbhR06sV5EdGpoQHfnqlC-3Nmkv3E&s=10",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
-    "uploader": "Gilang"
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "uploader": "Gilang",
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   },
   {
     "title": "Gilang",
@@ -32,8 +32,8 @@
     "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
     "created": "2025/5/21",
     "uploader": "Gilang",
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   },
   {
     "title": "Gilang",
@@ -41,8 +41,8 @@
     "desc": "yy",
     "created": "2025/5/21",
     "uploader": "Gilang",
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   },
   {
     "title": "Gilang",
@@ -50,7 +50,7 @@
     "desc": "yy",
     "created": "2025/5/21",
     "uploader": "Gilang yahahaha",
-    "tech" : ["express","tailwind css"],
-    "demo" :""
+    "tech": ["express", "tailwind css"],
+    "demo": ""
   }
 ]
