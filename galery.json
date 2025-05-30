@@ -2,38 +2,46 @@
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/JhwGREv.jpeg",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
     "created": "2025/5/21",
     "uploader": "Gilang",
     "tech": ["express", "tailwind css"],
-    "demo": ""
+    "demo": "",
+    "cat": "design",
+    "add": "Temanggung"
   },
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/jLr6MBF.jpeg",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
     "created": "2025/5/21",
     "uploader": "Gilang",
     "tech": ["express", "tailwind css", "react js"],
-    "demo": ""
+    "demo": "",
+    "cat": "web",
+    "add": "Temanggung"
   },
   {
     "title": "Gilang",
     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaDuuZx4ISWE1MYrx2Gvm2WRdBokMbhR06sV5EdGpoQHfnqlC-3Nmkv3E&s=10",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
     "created": "2025/5/21",
     "uploader": "Gilang",
-    "tech": ["express", "tailwind css","alight motion","kinemaster","PicsArt","LightRoom"],
-    "demo": ""
+    "tech": ["express", "tailwind css", "alight motion", "kinemaster", "PicsArt", "LightRoom"],
+    "demo": "",
+    "cat": "video editing",
+    "add": "Temanggung"
   },
   {
     "title": "Gilang",
     "src": "https://i.imgur.com/tmqqQYK.jpeg",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, iusto molestiae rerum ut beatae autem magnam, quae alias suscipit distinctio!",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
     "created": "2025/5/21",
     "uploader": "Gilang",
     "tech": ["express", "tailwind css"],
-    "demo": ""
+    "demo": "",
+    "cat": "design",
+    "add": "Temanggung"
   },
   {
     "title": "Gilang",
@@ -42,7 +50,9 @@
     "created": "2025/5/21",
     "uploader": "Gilang",
     "tech": ["express", "tailwind css"],
-    "demo": ""
+    "demo": "",
+    "cat": "art",
+    "add": "Temanggung"
   },
   {
     "title": "Gilang",
@@ -51,6 +61,8 @@
     "created": "2025/5/21",
     "uploader": "Gilang yahahaha",
     "tech": ["express", "tailwind css"],
-    "demo": ""
+    "demo": "",
+    "cat": "design",
+    "add": "Parakan"
   }
 ]
