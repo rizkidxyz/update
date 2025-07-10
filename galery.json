@@ -1,7 +1,7 @@
 [
   {
     "title": "Web Tools Service",
-    "src": "https://i.imgur.com/e7RRelu.jpeg",
+    "src": "https://i.imghippo.com/files/Hlb6588OFI.jpg",
     "desc": "Layanan tools untuk membuat file konfigurasi management data game yang telah dikonfigurasi dengan baik di server dan terintegrasi dengan database melalui API, memungkinkan manipulasi dan bypas data. dengan tools ini, pengguna dapat dengan mudah mengatur dan mengelola management data game sesuai versi yang di inginkan",
     "created": "2025/5/21",
     "uploader": "Gilang",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Python Email Sender",
-    "src": "https://i.imgur.com/3YxeXen.jpeg",
+    "src": "https://i.imghippo.com/files/wpt4824D.jpg",
     "desc": "Saya mengembangkan Tools berbasis CLI (Command Line Interface) dengan fungsi pengiriman email yang lebih kompleks menggunakan bahasa pemrograman Python. Tools ini dirancang untuk membantu pengguna mengirim email dengan lebih mudah dan efisien melalui command line. Dengan menggunakan Tools ini, pengguna dapat mengirim email dengan subjek, isi, dan lampiran, serta mendukung pengiriman email ke multiple penerima. Fitur lainnya termasuk pengaturan prioritas email, penggunaan template email, dan logging untuk memantau riwayat pengiriman email. Dengan teknologi Python dan library seperti `smtplib` dan `email`, Tools ini dapat membantu meningkatkan produktivitas dan otomatisasi dalam pengiriman email. Tujuan dari pengembangan Tools ini adalah untuk membantu pengguna mengirim email dengan lebih efektif dan efisien, serta meningkatkan fleksibilitas dan keamanan dalam pengiriman email.",
     "created": "2025/2/21",
     "uploader": "Gilang",
@@ -23,7 +23,7 @@
   },
   {
     "title": "Web Email Sender",
-    "src": "https://i.imgur.com/O4cQPKO.jpeg",
+    "src": "https://i.imghippo.com/files/hRn1715UYw.jpg",
     "desc": "Mengingat kesulitan mengirim email melalui platform tradisional, saya mengembangkan web layanan email yang dapat membantu memudahkan proses pengiriman email dengan lebih mudah, cepat, dan aman. Dengan menggunakan JavaScript sebagai bahasa pemrograman dan Tailwind sebagai framework UI, saya berhasil menciptakan antarmuka yang responsif dan user-friendly. Dengan demikian, proyek web layanan email ini dapat membantu pengguna mengirim email dengan lebih efektif dan efisien, serta meningkatkan keamanan dan privasi data pengguna.",
     "created": "2025/5/21",
     "uploader": "Gilang",
